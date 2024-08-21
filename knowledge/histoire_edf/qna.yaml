@@ -1,0 +1,41 @@
+---
+created_by: Mhamed26
+domain: Industry
+seed_examples:
+  - answer: A la suite de la première crise pétrolière de 1973, la France décide de
+      se tourner vers la production nucléaire pour remplacer les processus de
+      consommation « à flamme » et donc limiter les importations de pétrole.
+      Ainsi, la percée des processus électriques dans le secteur domestique (le
+      chauffage électrique) comme dans l’industrie, associée à la construction
+      des centrales nucléaires, la permis de substituer cette énergie aux
+      combustibles fossiles importés.
+    question: Pourquoi EDF investie énormément dans le nucléaire ?
+  - answer: D) Luc Rémont
+    question: |
+      Parmi les quatres choix suivant, qui est le président actuel de EDF ?
+
+      A) Pierre Simon
+
+      B) Marcel Flouret 
+
+      C) Henri Proglio
+
+      D) Luc Rémont
+  - answer: EDF est créée en 1946, par la loi de nationalisation des 1 450
+      entreprises françaises d’électricité et de gaz. Il est alors un
+      établissement public à caractère industriel et commercial.EDF devient en
+      2004 une société anonyme et entre en bourse en 2005. Pendant longtemps, le
+      capital d’EDF était détenu à 84,44% par l’État, à 10,34% par des acteurs
+      institutionnels, à 3,25% par des actionnaires individuels, à 1,85% par les
+      salariés du groupe, et à 0,12% en auto-détention. Or à la fin de l'année
+      2022, le gouvernement français a décidé de reprendre le contrôle de
+      l'entreprise afin de répondre aux besoins de construction de six nouveaux
+      réacteurs nucléaires. Donc EDF est en ce moment une société détenu en part
+      entière par l'état
+    question: EDF est une société détenu par l'état ou bien une société privée ?
+task_description: ""
+document:
+  repo: https://github.com/Mhamed26/EDF_instructLAB/tree/main/documents%20/documents_markdown/histoire_EDF
+  commit: 5b004b1
+  patterns:
+    - edf*.md
